@@ -1,0 +1,27 @@
+header.header-main {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img.logo-LaboLab {
+  width: 100px;
+  min-width: 100px;
+}
+
+.header__child {
+  display: flex;
+  align-items: center;
+}
+
+header .nav-btn:hover {
+  color: #af3ee4;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+@media (max-width: 340px) {
+  img.logo-LaboLab {
+    width: 100px;
+  }
+}
