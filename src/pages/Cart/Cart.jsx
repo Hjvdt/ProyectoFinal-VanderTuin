@@ -1,6 +1,6 @@
 import './Cart.css';
 import DeleteForeverIcon from '@mui/icons-material/DeleteForever';
-import { useContext, useState } from 'react';
+import { React, useContext, useState } from 'react';
 import CartContext from '../../context/CartContext';
 import KeepBuying from '../../components/KeepBuying/KeepBuying';
 import Button from '@mui/material/Button';
