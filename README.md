@@ -3,6 +3,8 @@
 
 Link al sitio web: 
 
+https://proyecto-final-vander-tuin-nw4ros4ib-hj-van-der-tuins-projects.vercel.app/
+
 ## Detalle
 El presente Ecommerce se elaboro en React y se conecto a una DB en Firebase/Firestore. 
 LaboLab-ecommerce es una tienda de venta de insumos para Laboratorio Clinico. En la página principal se puede ver un listado de los mismos, entrar a su detalle, filtrar por categoría y agregar al carrito (con control de no sobrepasar el stock). 
@@ -33,10 +35,13 @@ https://github.com/Hjvdt/ProyectoFinal-VanderTuin/blob/main/ProyectoFinalReact-V
 - Sweetalert2
 - Firebase/Firestore para la DB
 
-#Para probarlo desde Github: 
+## Para probarlo desde Github se debe descargar desde donde dice CODE: 
 - Descargar el zip o clonar el Repo (git clone)
 - Una vez descargado, instalar las librerias:
+  
    npm install
-- Para ejecutarlo corre:
-   npm run start o npm run dev
+  
+- Para ejecutarlo correr el siguiente comando:
+  
+   npm run start    o      npm run dev
 
