@@ -32,3 +32,11 @@ https://github.com/Hjvdt/ProyectoFinal-VanderTuin/blob/main/ProyectoFinalReact-V
 - React Router Dom
 - Sweetalert2
 - Firebase/Firestore para la DB
+
+#Para probarlo desde Github: 
+- Descargar el zip o clonar el Repo (git clone)
+- Una vez descargado, instalar las librerias:
+   npm install
+- Para ejecutarlo corre:
+   npm run start o npm run dev
+
